@@ -1,6 +1,6 @@
 👩‍💻 Fullstack Java & DevOps Developer | Passionate about software engineering, AI, and building cloud-native solutions.
 
-🎓 Final-year computer engineering student at ENSA Tanger, specializing in modern software architectures with Spring Boot, React.js, and DevOps practices including CI/CD pipelines with Docker and AWS.
+🎓 4Th-year computer engineering student at ENSA Tanger, specializing in modern software architectures with Spring Boot, React.js, and DevOps practices including CI/CD pipelines with Docker and AWS.
 
 💡 I've built several complete web applications such as:
 - **MIRAI**: Internship management platform with AI-powered CV analysis (Spring Boot, React, PostgreSQL).
