@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silia</h1>
-<h3 align="center">A passionate frontend Full Stack developement and DevOps</h3>
+<h3 align="center">A passionate Full Stack developement and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silia1&label=Profile%20views&color=0e75b6&style=flat" alt="silia1" /> </p>
 
